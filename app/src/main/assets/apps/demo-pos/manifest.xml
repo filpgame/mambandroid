@@ -1,0 +1,17 @@
+<MambaClass Type="Manifest" Version="1.0">
+  <Member Name="appName">mambandroid</Member>
+  <Member Name="defaultName">mambandroid</Member>
+  <Member Name="displayedName">mambandroid</Member>
+  <Member Name="appVersion">0.0.1</Member>
+  <Member Name="appDescription">POC do mambasdk no Android</Member>
+  <Member Name="appLastModificationDate">2020-02-28T15:51:03</Member>
+  <Member Name="listInMainMenu">true</Member>
+  <Member Name="appTechnology">1</Member>
+  <Member Name="appType">0</Member>
+  <Member Name="appPasswordProtectionLevel">0</Member>
+  <Member Name="runOnUserSelection">index.html</Member>
+  <Member Name="id">64323</Member>
+  <Member Name="iconPath">assets/logo.bmp</Member>
+  <Member Name="appCreationDate">2020-02-20T01:13:03</Member>
+  <Member Name="appKey">11-11-11-11</Member>
+</MambaClass>
